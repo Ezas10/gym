@@ -1,0 +1,82 @@
+header{
+    color: white;
+    width: 98vw;
+     background-color: aqua;
+    background-image: url("https://img.freepik.com/free-photo/3d-gym-equipment_23-2151114193.jpg") ;
+    text-transform: capitalize;
+
+}
+
+h1{
+    font-style: italic;
+    text-decoration: underline;
+}
+.ez{
+    font-style: normal;
+    text-shadow: 3px 3px 2px;
+    text-transform: capitalize;
+    text-align: right;
+    background: none;
+
+    
+}
+.c{
+    text-shadow: 3px 3px 2px;
+    text-transform: lowercase;
+    text-align: center;
+    background: none;
+}
+.d{
+    text-shadow: 3px 3px 2px;
+    text-transform: uppercase;
+    background: none;
+    
+}
+
+article{
+    font-size: 30px;
+    background:linear-gradient(to right, pink, yellow,black);
+    
+}
+section{
+    background: linear-gradient(to right, lightblue, blue);
+    position: relative;
+}
+div{
+    padding-top: 10px;
+}
+.new{
+    
+    padding-top: 0%;
+    padding: 0px 20px 0x 20px;
+    border: 3px solid yellow;
+    background-color: white;
+    margin-left: 40%;
+    margin-right: 36%;
+    text-align: center;
+    
+}
+
+.img1{
+    padding: 0px 20px 0px 20px;
+    border: 3px solid yellow;
+    background-color: white;
+    margin-left: 40%;
+    margin-right: 36%;
+    text-align: center;
+}
+
+.img2{
+    padding: 0px 20px 0px 20px;
+    border: 3px solid yellow;
+    background-color: white;
+    margin-left: 40%;
+    margin-right: 36%;
+    text-align: center;
+
+}
+
+h2{
+    color: orange;
+}
+
